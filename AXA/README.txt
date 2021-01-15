@@ -18,4 +18,6 @@ I managed to identify Web Elements using several Selenium locators
  I will write multiple tests for all the positive and negative scenarios like failed login etc...
  
  •	What tools, dependencies or 3rd party frameworks/libs/modules you used and why?
- I developed BDD Framework using Cucumber, Java, Selenium, Junit etc.. to show how the tests are easy to read in plain English. 
+ I developed BDD Framework using Cucumber, Java, Selenium, Junit, Eclipse, Maven etc.. to show how the tests are easy to read in plain English.
+ It is Maven project developed in Eclipse.
+ Please see pom.xml file for list of dependency jars.
